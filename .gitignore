@@ -57,3 +57,7 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
+msbuild.binlog
+yarn.lock
+android/.project
+android/app/.settings/org.eclipse.buildship.core.prefs
